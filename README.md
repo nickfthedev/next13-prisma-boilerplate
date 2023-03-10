@@ -1,6 +1,8 @@
 # next-prisma-todo
- Todo App with Prisma and NextJS 13 (App Directory). Using Tailwind and DaisyUI
+Boilerplate App with Prisma and NextJS 13 (App Directory). 
+Using Tailwind and DaisyUI
 
+DB Schema Ready for NextAuthJS
 
 ## Getting started
 
